@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about android
 - 📫 How to reach me: LinkedIn - [Ritam Bhattacharyya](https://www.linkedin.com/in/ritambhattacharyya/)
-- ⚡ Fun fact: I am a boring person!
+- ⚡ Fun fact: I love Bill Murray!
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=spacemonkey1101&show_icons=true&theme=tokyonight)
